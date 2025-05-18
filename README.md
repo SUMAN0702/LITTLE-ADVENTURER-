@@ -7,13 +7,12 @@
 
 ## 📷 Screenshots
 
-> *(Replace below with your actual image links or GitHub embedded markdown syntax)*
 
-- ![Main Menu](![Screenshot 2025-02-22 141036](https://github.com/user-attachments/assets/5fca9bc0-38e0-4182-92f4-7e6a8a19d070)
-- ![Gameplay with Enemy AI](![Screenshot 2025-02-22 141052](https://github.com/user-attachments/assets/01175568-e119-4566-9393-0b62f162792d)
-- ![Victory Screen](![Screenshot 2025-02-22 141315](https://github.com/user-attachments/assets/e09e333f-6636-4399-8e42-b2e28f6ed28f)
-- ![Pause_Menu](![Screenshot 2025-02-22 141155](https://github.com/user-attachments/assets/c30ea7e3-3014-4e4d-9c9c-b17ef57c16b5)
-- ![Game Loop Flowchart](![May 18, 2025, 02_10_24 PM](https://github.com/user-attachments/assets/00243152-30b6-4217-adb7-7c2fa494a053)
+- Main Menu(![Screenshot 2025-02-22 141036](https://github.com/user-attachments/assets/5fca9bc0-38e0-4182-92f4-7e6a8a19d070)
+- Gameplay with Enemy AI(![Screenshot 2025-02-22 141052](https://github.com/user-attachments/assets/01175568-e119-4566-9393-0b62f162792d)
+- Victory Screen(![Screenshot 2025-02-22 141315](https://github.com/user-attachments/assets/e09e333f-6636-4399-8e42-b2e28f6ed28f)
+- Pause_Menu(![Screenshot 2025-02-22 141155](https://github.com/user-attachments/assets/c30ea7e3-3014-4e4d-9c9c-b17ef57c16b5)
+- Game Loop Flowchart(![May 18, 2025, 02_10_24 PM](https://github.com/user-attachments/assets/00243152-30b6-4217-adb7-7c2fa494a053)
 
 ## 🛠️ Tech Stack
 
